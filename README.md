@@ -57,10 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math__magicians] <a name="about-project"></a>
+# 📖 [Speech App] <a name="about-project"></a>
 
 > This project is a calculator app I created with react js👌, the user can solve any calculations by the app. 
-![Screenshot 2022-12-02 153440](https://user-images.githubusercontent.com/83360636/205304798-f078f73c-2c0f-47ca-b770-7cc3226bafde.png)
+![Screenshot 2022-12-06 003024](https://user-images.githubusercontent.com/83360636/205758626-70c60340-c120-4d70-b15f-32c3e411e3d9.png)
+
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -78,8 +79,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- [x] I added the functionality for this app👍.
-- [x] I converted this project from using the class based components into using the function component and hooks💯.
+- [x] I added the functionality for the speech app👍.
+- [x] The user can be able to type any thing and click at the button and the app will read the text for him💯.
 
 
 
@@ -103,7 +104,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/osamaashraf6/Math-magicians
+  git clone https://github.com/osamaashraf6/convert-txt-to-audio-app
 ```
 
 
@@ -111,7 +112,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
 ```sh
-  cd Math-magicians
+  cd convert-txt-to-audio-app
   npm install
 ```
 
@@ -171,7 +172,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project you can give me a star 😊 just to prove my app that it is useful for everyone and the users can use it to calculate any thing 💯.
+> If you like this project you can give me a star 😊 just to prove my app that it is useful for everyone and the users can use it to listen to the text which he typed any thing 💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
