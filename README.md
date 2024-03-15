@@ -1,33 +1,13 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  
 
 </div>
 
@@ -59,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Speech App] <a name="about-project"></a>
 
-> This project is a calculator app I created with react js👌, the user can solve any calculations by the app. 
+> A speech App in which the user can type anything and click on the button and the app will read the text for him, I used a built-in API JS for making the functionality
 ![Screenshot 2022-12-06 003024](https://user-images.githubusercontent.com/83360636/205758626-70c60340-c120-4d70-b15f-32c3e411e3d9.png)
 
 
@@ -68,21 +48,26 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
+      <li>CSS</li>
+        <li>JS</li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
 - [x] I added the functionality for the speech app👍.
-- [x] The user can be able to type any thing and click at the button and the app will read the text for him💯.
+- [x] The user can type anything and click on the button and the app will read the text for him💯.
 
 
+### Live Demo 🚀
+
+- Click [Here](https://raw.githack.com/osamaashraf6/convert-txt-to-audio-app/dev/templates/speech.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +79,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+To run this project you need:
 
 
 ### Setup
@@ -150,10 +135,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features I will add to the project.
 
 
-- [x] I will test this app using library from react or may be use jest to test it👌💯.
+- [x] I will test this app using jest to test it👌💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
